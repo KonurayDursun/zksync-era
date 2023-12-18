@@ -34,7 +34,7 @@ zkSync Era is distributed under the terms of either
 
 at your option.
 
-## Official Links
+## Official Links with various platforms
 
 - [Website](https://zksync.io/)
 - [GitHub](https://github.com/matter-labs)
